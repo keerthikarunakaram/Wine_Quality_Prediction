@@ -1,6 +1,6 @@
 # Wine_Quality_Prediction
 
-This datasets is related to red variants of the Portuguese "Vinho Verde" wine.The dataset describes the amount of various chemicals present in wine and their effect on it's quality. 
+The dataset describes the amount of various chemicals present in wine and their effect on it's quality. 
 
   Input variables (based on physicochemical tests):\
 1 - fixed acidity\
